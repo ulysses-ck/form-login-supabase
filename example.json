@@ -1,0 +1,89 @@
+{
+  "session": {
+    "provider_token": "ya29.a0AfB_byD-55vvSQzW52qOIrEb5zVBhrIImxovyzgkOynL380X11EzF-gwrG3f7z5DLH3QNOuH4zJa8pwZ1Ov8-0YIYPCj3RRQ72sirDjf9cRLNCbwAmx1ArZXxj8jjKJYv-peMds4eHvKARuvz415dBEg6e_WYmP4fDNVaCgYKAQUSARISFQHGX2Mi3i-jt7CuCOJqE55lSKXijw0171",
+    "access_token": "eyJhbGciOiJIUzI1NiIsImtpZCI6ImxTTzZlcWpsRVJjNFlmWHoiLCJ0eXAiOiJKV1QifQ.eyJhdWQiOiJhdXRoZW50aWNhdGVkIiwiZXhwIjoxNzAwODM4ODQxLCJpYXQiOjE3MDA4MzUyNDEsImlzcyI6Imh0dHBzOi8vbWN3b3h3ZHFlcm1qampsc2Jtbmkuc3VwYWJhc2UuY28vYXV0aC92MSIsInN1YiI6ImZjMmQxZTNkLWI1OTQtNDE3Mi1hNGQ0LWVmYTY3ZjQxY2ExYyIsImVtYWlsIjoidWxpc2VzYXBhemEuMjgwQGdtYWlsLmNvbSIsInBob25lIjoiIiwiYXBwX21ldGFkYXRhIjp7InByb3ZpZGVyIjoiZGlzY29yZCIsInByb3ZpZGVycyI6WyJkaXNjb3JkIiwiZ29vZ2xlIl19LCJ1c2VyX21ldGFkYXRhIjp7ImF2YXRhcl91cmwiOiJodHRwczovL2Nkbi5kaXNjb3JkYXBwLmNvbS9hdmF0YXJzLzc0MDM1ODIzNDAwMjY4NjAwNC9iNDUyOTkyNjE3MmFiYWZiYTQ0ZTUzOWJjNGM3YzU5OC5wbmciLCJjdXN0b21fY2xhaW1zIjp7Imdsb2JhbF9uYW1lIjoidWx5c3NlcyJ9LCJlbWFpbCI6InVsaXNlc2FwYXphLjI4MEBnbWFpbC5jb20iLCJlbWFpbF92ZXJpZmllZCI6dHJ1ZSwiZnVsbF9uYW1lIjoidWx5c3Nlc19jayIsImlzcyI6Imh0dHBzOi8vZGlzY29yZC5jb20vYXBpIiwibmFtZSI6InVseXNzZXNfY2sjMCIsInBob25lX3ZlcmlmaWVkIjpmYWxzZSwicGljdHVyZSI6Imh0dHBzOi8vY2RuLmRpc2NvcmRhcHAuY29tL2F2YXRhcnMvNzQwMzU4MjM0MDAyNjg2MDA0L2I0NTI5OTI2MTcyYWJhZmJhNDRlNTM5YmM0YzdjNTk4LnBuZyIsInByb3ZpZGVyX2lkIjoiNzQwMzU4MjM0MDAyNjg2MDA0Iiwic3ViIjoiNzQwMzU4MjM0MDAyNjg2MDA0In0sInJvbGUiOiJhdXRoZW50aWNhdGVkIiwiYWFsIjoiYWFsMSIsImFtciI6W3sibWV0aG9kIjoib2F1dGgiLCJ0aW1lc3RhbXAiOjE3MDA4MzUyNDF9XSwic2Vzc2lvbl9pZCI6ImRlN2Q2MjAyLTA5YzktNDNjZC1hNThiLTAyY2M3ZDJjNGYyMCJ9.vyL5pzRl8yYlXTRwbtaYH4VD8rYa41ytySJQq0L3sDI",
+    "expires_in": 3600,
+    "expires_at": 1700838841,
+    "refresh_token": "kzOaLmQ3rO2wc_sYXpER2g",
+    "token_type": "bearer",
+    "user": {
+      "id": "fc2d1e3d-b594-4172-a4d4-efa67f41ca1c",
+      "aud": "authenticated",
+      "role": "authenticated",
+      "email": "ulisesapaza.280@gmail.com",
+      "email_confirmed_at": "2023-11-24T14:06:23.126072Z",
+      "phone": "",
+      "confirmed_at": "2023-11-24T14:06:23.126072Z",
+      "last_sign_in_at": "2023-11-24T14:14:01.082076Z",
+      "app_metadata": {
+        "provider": "discord",
+        "providers": [
+          "discord",
+          "google"
+        ]
+      },
+      "user_metadata": {
+        "avatar_url": "https://cdn.discordapp.com/avatars/740358234002686004/b4529926172abafba44e539bc4c7c598.png",
+        "custom_claims": {
+          "global_name": "ulysses"
+        },
+        "email": "ulisesapaza.280@gmail.com",
+        "email_verified": true,
+        "full_name": "ulysses_ck",
+        "iss": "https://discord.com/api",
+        "name": "ulysses_ck#0",
+        "phone_verified": false,
+        "picture": "https://cdn.discordapp.com/avatars/740358234002686004/b4529926172abafba44e539bc4c7c598.png",
+        "provider_id": "740358234002686004",
+        "sub": "740358234002686004"
+      },
+      "identities": [
+        {
+          "id": "740358234002686004",
+          "user_id": "fc2d1e3d-b594-4172-a4d4-efa67f41ca1c",
+          "identity_data": {
+            "avatar_url": "https://cdn.discordapp.com/avatars/740358234002686004/b4529926172abafba44e539bc4c7c598.png",
+            "custom_claims": {
+              "global_name": "ulysses"
+            },
+            "email": "ulisesapaza.280@gmail.com",
+            "email_verified": true,
+            "full_name": "ulysses_ck",
+            "iss": "https://discord.com/api",
+            "name": "ulysses_ck#0",
+            "phone_verified": false,
+            "picture": "https://cdn.discordapp.com/avatars/740358234002686004/b4529926172abafba44e539bc4c7c598.png",
+            "provider_id": "740358234002686004",
+            "sub": "740358234002686004"
+          },
+          "provider": "discord",
+          "last_sign_in_at": "2023-11-24T14:06:23.123219Z",
+          "created_at": "2023-11-24T14:06:23.123259Z",
+          "updated_at": "2023-11-24T14:09:26.40944Z"
+        },
+        {
+          "id": "114411200805211089186",
+          "user_id": "fc2d1e3d-b594-4172-a4d4-efa67f41ca1c",
+          "identity_data": {
+            "avatar_url": "https://lh3.googleusercontent.com/a/ACg8ocKc1v46_3Lwkrd0l51-A4JxZ1-TOm82DKrFuoOeWIKiaHM=s96-c",
+            "email": "ulisesapaza.280@gmail.com",
+            "email_verified": true,
+            "full_name": "Ulises Apaza",
+            "iss": "https://accounts.google.com",
+            "name": "Ulises Apaza",
+            "phone_verified": false,
+            "picture": "https://lh3.googleusercontent.com/a/ACg8ocKc1v46_3Lwkrd0l51-A4JxZ1-TOm82DKrFuoOeWIKiaHM=s96-c",
+            "provider_id": "114411200805211089186",
+            "sub": "114411200805211089186"
+          },
+          "provider": "google",
+          "last_sign_in_at": "2023-11-24T14:14:01.080006Z",
+          "created_at": "2023-11-24T14:14:01.08005Z",
+          "updated_at": "2023-11-24T14:14:01.08005Z"
+        }
+      ],
+      "created_at": "2023-11-24T14:06:23.11915Z",
+      "updated_at": "2023-11-24T14:14:01.083504Z"
+    }
+  }
+}
